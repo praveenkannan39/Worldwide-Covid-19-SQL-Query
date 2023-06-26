@@ -1,6 +1,6 @@
 # Worldwide-Covid-19-SQL-Query
 
-The Worldwide-Covid-19-SQL-Query analyzes worldwide COVID-19 deaths from January 2020 to April 2023. It utilizes three datasets: covid_deaths, covid_stats, and covid_vaccinations. The query includes WHERE clauses and aggregates the data to provide comprehensive information.
+The Worldwide-Covid-19-SQL-Query analyzes worldwide COVID-19 deaths from January 2020 to April 2023. It utilizes three datasets: covid_deaths, covid_stats, and covid_vaccinations. The SQL query incorporates a variety of clauses, functions, and aggregation techniques to extract and summarize data, providing a comprehensive analysis of the information. By utilizing different clauses, specific conditions are applied to filter the data, allowing for focused examinations of particular locations or time periods. This enables a more targeted analysis of COVID-19 deaths within specific contexts.
 
 In the initial section, three queries retrieve data from the tables covid_deaths, covid_vaccinations, and covid_stats, respectively. These queries ensure that the dataset used for analysis is comprehensive, covering information related to deaths, vaccinations, and general statistics.
 
